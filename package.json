@@ -1,0 +1,26 @@
+{
+  "name": "assignment2rep",
+  "version": "1.0.0",
+  "description": "Web Design Repository",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KKhatri06/Assignment2Rep.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KKhatri06/Assignment2Rep/issues"
+  },
+  "homepage": "https://github.com/KKhatri06/Assignment2Rep#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "socket.io": "^4.8.3"
+  }
+}
